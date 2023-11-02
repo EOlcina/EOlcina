@@ -10,7 +10,8 @@
   ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer from Sudan.
+Soy un administrador de sistemas junior y actualmente estudio ciberseguridad en España.![image](https://github.com/EOlcina/EOlcina/assets/125612195/59438fee-59bd-4b63-9c97-7e2bb9637ca8)
+
 - :seedling: Exploring Technical Content Writing.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-alhadi/)
 <div>
