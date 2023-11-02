@@ -8,10 +8,10 @@
     <a href="https://www.twitter.com/yasin_elhadi">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YasinAlhadi&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=EOlcina&style=flat-square&color=blue" alt=""/>
   </div>
   <h1>
-    Hello, I'm Yasin Alhadi
+    Hola, soy Enrique Olcoina
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
